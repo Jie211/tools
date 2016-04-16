@@ -1,5 +1,6 @@
 tools for solver
 ====
+## Add Python version 
 * MatrixChecker 行列の情報を調べる
 	- 行の最大要素数と最小要素数
 	- 平均行要素数
